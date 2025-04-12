@@ -16,3 +16,7 @@ Need a MCP server built? Request it here.
 [NameAPI MCP Server](https://github.com/JordanDalton/NameApiMcpServer)
 [Service Titan MCP Server](https://github.com/JordanDalton/ServiceTitanMcpServer)
 [Podscan MCP Server](https://github.com/JordanDalton/PodscanMcpServer)
+
+### MCP Server Generated
+
+[MCPGen: MCP Server Generator](https://mcpgen.jordandalton.com)
