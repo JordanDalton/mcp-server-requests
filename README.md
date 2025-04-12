@@ -11,11 +11,11 @@ Need a MCP server built? Request it here.
 
 ## Severs Generated
 
-[DoorDash MCP Server](https://github.com/jordandalton/doordash-mcp-server)
-[RestCSV MCP Server](https://github.com/JordanDalton/RestCsvMcpServer)
-[NameAPI MCP Server](https://github.com/JordanDalton/NameApiMcpServer)
-[Service Titan MCP Server](https://github.com/JordanDalton/ServiceTitanMcpServer)
-[Podscan MCP Server](https://github.com/JordanDalton/PodscanMcpServer)
+* [DoorDash MCP Server](https://github.com/jordandalton/doordash-mcp-server)
+* [RestCSV MCP Server](https://github.com/JordanDalton/RestCsvMcpServer)
+* [NameAPI MCP Server](https://github.com/JordanDalton/NameApiMcpServer)
+* [Service Titan MCP Server](https://github.com/JordanDalton/ServiceTitanMcpServer)
+* [Podscan MCP Server](https://github.com/JordanDalton/PodscanMcpServer)
 
 ### MCP Server Generator
 
