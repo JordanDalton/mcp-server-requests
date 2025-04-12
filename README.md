@@ -17,6 +17,6 @@ Need a MCP server built? Request it here.
 [Service Titan MCP Server](https://github.com/JordanDalton/ServiceTitanMcpServer)
 [Podscan MCP Server](https://github.com/JordanDalton/PodscanMcpServer)
 
-### MCP Server Generated
+### MCP Server Generator
 
 [MCPGen: MCP Server Generator](https://mcpgen.jordandalton.com)
