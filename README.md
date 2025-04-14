@@ -20,3 +20,7 @@ Need a MCP server built? Request it here.
 ### MCP Server Generator
 
 [MCPGen: MCP Server Generator](https://mcpgen.jordandalton.com)
+
+### MCP Server Manager
+
+[MCP Manager: MCP Server Manager](https://mcpmanager.app)
